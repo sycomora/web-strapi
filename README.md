@@ -1,3 +1,5 @@
+![alt text](https://github.com/sycomora/web-strapi/blob/main/Vodea%20Github.png)
+
 # Sycomora Back Office, Starpi!
 Introducing, the power of our Back Office, Strapi!
 Strapi help us for publishing our contents, blog and news post into our custom build website, Sycomora.ID
