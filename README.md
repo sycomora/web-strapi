@@ -1,4 +1,4 @@
-![alt text](https://github.com/sycomora/web-strapi/blob/main/Vodea%20Github.png)
+![alt text](https://github.com/sycomora/web-strapi/blob/main/Sycomora%20Back%20Office.png)
 
 # Sycomora Back Office, Starpi!
 Introducing, the power of our Back Office, Strapi!
