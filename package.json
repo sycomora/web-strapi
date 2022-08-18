@@ -9,19 +9,28 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
+    "formik": "2.2.9",
+    "immer": "9.0.15",
+    "knex": "0.21.18",
+    "neo-async": "2.6.2",
+    "react-error-boundary": "3.1.4",
     "slugify": "^1.6.5",
-    "strapi": "3.6.8",
-    "strapi-admin": "3.6.8",
+    "sqlite3": "^5.0.2",
+    "strapi": "^3.6.8",
+    "strapi-admin": "^3.6.10",
+    "strapi-connector-bookshelf": "^3.6.9",
     "strapi-connector-mongoose": "3.6.8",
     "strapi-plugin-content-manager": "3.6.8",
     "strapi-plugin-content-type-builder": "3.6.8",
     "strapi-plugin-email": "3.6.8",
     "strapi-plugin-i18n": "3.6.8",
-    "strapi-plugin-upload": "3.6.8",
+    "strapi-plugin-upload": "^0.0.0",
     "strapi-plugin-users-permissions": "3.6.8",
-    "strapi-utils": "3.6.8"
+    "strapi-utils": "3.6.8",
+    "webpack": "5.74.0",
+    "css-loader": "6.7.1",
+    "file-loader": "6.2.0"
   },
   "author": {
     "name": "A Strapi developer"
